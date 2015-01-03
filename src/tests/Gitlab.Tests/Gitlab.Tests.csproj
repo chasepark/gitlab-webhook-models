@@ -75,12 +75,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\Gitlab.Models\Gitlab.Models.csproj">
-      <Project>{282ac24a-96d9-4cb6-aec3-d4021eaf6587}</Project>
-      <Name>Gitlab.Models</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
